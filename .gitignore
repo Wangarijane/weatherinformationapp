@@ -1,0 +1,12 @@
+# Java compiled files
+*.class
+out/
+
+# Local environment and secret files
+.env
+.env.*
+!.env.example
+
+# IDE files
+.idea/
+.vscode/
